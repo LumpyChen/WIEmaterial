@@ -10,7 +10,7 @@ __富文本__`Rich Text Format`不仅仅是文本，是__具有各种结构与�
 
 __文本__`Text`本身不具有样式和结构：
 
-[文本](http://static.zybuluo.com/Lumpychen/46g52h7okifyctxip042xz0u/image_1av665tbh1f9m126ss841jaulv89.png
+![文本](http://static.zybuluo.com/Lumpychen/46g52h7okifyctxip042xz0u/image_1av665tbh1f9m126ss841jaulv89.png
 )
 
 每个字符字号，大小，字体，背景全部是系统默认，并未保存到系统内部，只有文本内容本身保存到了系统内部：
