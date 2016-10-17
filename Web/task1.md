@@ -75,6 +75,8 @@ __富文本__`Rich Text Format`不仅仅是文本，是__具有各种结构与�
 1. 仔细学习`小白变怪兽`网站的第一章和第二章：[http://bianguaishou.com](http://bianguaishou.com)
 4. 在`markdowncmd`上，使用`markdown`语言写出第一章和第二章的笔记
 
+>注意，不要在`Markdowncmd`附赠的第一篇实例日志上浪费太多时间，从头到尾扫一遍即可，因为太过复杂，下载`window64位`的客户端后记得注册用户，完成其云同步功能
+
 ## 拓展要求
 
 1. 如果你想要在`markdowncmd`上编辑数学公式，比如微积分和线性代数笔记，推荐[文档](http://wenku.baidu.com/link?url=4XxZOOktbySLl0MZWrEISuZ8mQbawfaEDz_vdxBmtCFu3qVwC0bOQPBabm37FOEuFttBFC74X7bKu6h2vWB4cj0j5VbSYpQVeTqthl85W4e)
