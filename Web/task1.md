@@ -75,6 +75,8 @@ __富文本__`Rich Text Format`不仅仅是文本，是__具有各种结构与�
 1. 仔细学习`小白变怪兽`网站的第一章和第二章：[http://bianguaishou.com](http://bianguaishou.com)
 4. 在`markdowncmd`上，使用`markdown`语言写出第一章和第二章的笔记
 
+>要求：提交你的笔记，我会对你记笔记和你使用`Markdown`的方式提出建议
+
 >注意，不要在`Markdowncmd`附赠的第一篇实例日志上浪费太多时间，从头到尾扫一遍即可，因为太过复杂，下载`window64位`的客户端后记得注册用户，完成其云同步功能
 
 ## 拓展要求
