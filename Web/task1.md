@@ -81,7 +81,7 @@ __富文本__`Rich Text Format`不仅仅是文本，是__具有各种结构与�
 
 ## 拓展要求
 
-1. 如果你想要在`markdowncmd`上编辑数学公式，比如微积分和线性代数笔记，推荐`Latex语言`（被集成在`Markdowncmd`中），[文档点击这里](http://wenku.baidu.com/link?url=4XxZOOktbySLl0MZWrEISuZ8mQbawfaEDz_vdxBmtCFu3qVwC0bOQPBabm37FOEuFttBFC74X7bKu6h2vWB4cj0j5VbSYpQVeTqthl85W4e)
+1. 如果你想要在`markdowncmd`上编辑数学公式，比如微积分和线性代数笔记，推荐`Latex语言`（被集成在`Markdowncmd`中），[文档点击这里](https://www.zybuluo.com/codeep/note/163962)
 2. 如果你想使用`Markdown`来写`ppt`，推荐`cleaver.js`，[介绍点击这里](https://lumpychen.github.io/2016/zh-cn/Cleaverjs简介/)
 2. 如果你有更多时间，可以看`小白变怪兽`的第四章，第五章
 
