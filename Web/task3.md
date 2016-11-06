@@ -53,7 +53,7 @@ __行内元素__：
 
 来看看我们现在有什么：
 
-![](./img/get.png)
+![](https://raw.githubusercontent.com/LumpyChen/WIEmaterial/master/Web/img/get.png)
 
 图可是交警自己画的
 
@@ -69,7 +69,7 @@ __行内元素__：
 
 于是，我们来学习__浮动规则__
 
-利用__浮动规则__我们可以制作出有个性的作品：[交警原创](http://lumpychen.github.io/lantau)
+利用__浮动规则__我们可以制作出有个性的作品：[交警原创](http://lumpychen.github.io/Lantau/)
 
 网页中的图片摄影也均为原创
 
