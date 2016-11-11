@@ -83,9 +83,13 @@ __行内元素__：
 
 1. 复习一下之前的知识，尝试一下[基础布局](http://ife.baidu.com/task/detail?taskId=2)，如果感觉简单请跳过，不做验收要求，这部分旨在帮助大家熟悉基本操作
 2. 学习[小白变怪兽](http://bianguaishou.com)的第四章，动手跟做
-1. 再深入学习[CSS的float属性](http://www.imooc.com/learn/121)1-6章，动手跟做
+1. 再深入学习[CSS的float属性](http://www.imooc.com/learn/121)1-6章，动手跟做，要求：
+  1. 对于`BFC`和`haslayout`完全不要求了解，不要失去信心
+  1. 只需要了解`float`的清除浮动的具体写法，对于其原理不作要求
+  1. 别失去信心，因为要求不高 : )
 1. 浏览[CSS教程](http://zh.learnlayout.com/no-layout.html)，9-10页，使用`chrome调试工具`进行研究，动手实现每页的元素效果
-1. 完成任务[三栏式布局](http://ife.baidu.com/task/detail?taskId=3)，需要将文件提交给我，内容可以放任何你想放的东西
+1. 完成任务[三栏式布局](http://ife.baidu.com/task/detail?taskId=3)，需要将文件提交给我，内容可以放任何你想放的东西，完成这种两侧固定宽度，中间宽度自适应的布局其实在前面的教程里面有，同时可参考这个[三栏布局方案](
+http://www.zhangxinxu.com/wordpress/2009/11/%E6%88%91%E7%86%9F%E7%9F%A5%E7%9A%84%E4%B8%89%E7%A7%8D%E4%B8%89%E6%A0%8F%E7%BD%91%E9%A1%B5%E5%AE%BD%E5%BA%A6%E8%87%AA%E9%80%82%E5%BA%94%E5%B8%83%E5%B1%80%E6%96%B9%E6%B3%95/)
 3. 更新你的笔记
 
 记住，如果看的很吃力一定记得问
