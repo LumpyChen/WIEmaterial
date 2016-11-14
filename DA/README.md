@@ -2,8 +2,9 @@
 Author: RyQ  
 
 ###Version:  
-0.9 2016.10.18 初稿  
+0.9 2016.10.18 初稿
 1.0 2016.10.26 修改了一些Task的设计，并补充了一些说明
+1.1 2016.11.14 修改了一些Task的设计，增加了Module
 ***
 
 数据科学近几年非常火，工作坊在去掉Android和Java两大技术栈之后，把Data Analytics也放入了一条培养路线。
@@ -35,57 +36,84 @@ Task的设置是包含了前期的一些培养目标，让跟着我做的萌新�
 关于基础的Task，大体也有了一些想法，暂时罗列在这里，之后再修改：
 
 ```
-Task 1: 初识数据分析——使用Excel   
+Module 1: 统计基础与常用工具
+Task 1: 初识数据分析——使用Excel
 Task 2: 使用更专业的工具——SPSS
-
-通过使用集成化的工具让萌新们感受一下数据分析是做什么的
-```
-
-```
 Task 3: 统计学基础
 Task 4: 学习R语言
-
-补上必须的统计学基础，开始使用R语言作为分析工具
 ```
 
 ```
-Task 5: 方差分析  
-Task 6: Web系统与框架
-
-学习常用的分析方法，补上必须的互联网基础
+Modlue 2: 常用统计分析与分析模型
+Task 5: 回归分析
+Task 6: 方差分析
+Task 7: Conjoint Analysis
+Task 8: AHP
 ```
 
 ```
-Task 7: 回归分析
-Task 8: 数据库原理
-
-学习常用的分析方法，补上必须的互联网基础
+Module 3: 互联网基础
+Task 9: Linux
+Task 10: Web系统
+Task 11: 数据库原理（包括NoSQL）
+Task 12: 网络传输协议
 ```
 
 ```
-Task 9: Conjoint Analysis
-Task 10: Python扩展库（DA相关）
-
-学习简单的分析模型，开始使用Python作为分析工具
+Module 4: 使用Python
+Task 13: Python进阶
+Task 14: 爬虫
+Task 15: 自然语言分析
+Task 16: 数据可视化
 ```
 
 ```
-Task 11: AHP
-Task 12: AHP的Python实现
-
-学习简单的分析模型以及Python实现，考察代码能力
+Module 5: 初识Data Mining
+Task 17: 图论基础
+Task 18: 运筹学基础
+Task 19: 数据预处理
+Task 20: 分类算法
+Task 21: 关联分析
+Task 22: 聚类分析
 ```
 
 ```
-Task 13: 初识自然语言分析
-Task 14: 数据可视化（R/Python）
-
-简单介绍自然语言分析，学习数据可视化的相关手段
+Module 6: 分布式计算
+Task 23: Java
+Task 24：Hadoop初识
+Task 25: HDFS
+Task 26: MapReduce
+Task 27: Yarn
+Task 28: 构建集群
+Task 29: Pig
+Task 30: Hive
+Task 31: HBase
+Task 32: ZooKeeper
+Task 33: Sqoop
+Task 34: Spark
 ```
 
 ```
-Task 15: 自主设计实验，系统建模
-Task 16: 编写程序进行数据分析
-
-自主设计实验，并用配合以相应的代码实现
+Module 7: Machine Learning
+Task 35: 感知器
+Task 36: 最小均方算法
+Task 37: 核方法与径向基函数网络
+Task 38: 支持向量机
+Task 39: 正则化网络
+Task 40: 主向量分析
+Task 41: 自组织映射
+Task 42: 信息论学习模型
+Task 43: 随机方法
+Task 44: 动态规划
+Task 45: 神经动力学
+Task 46: 动态系统状态估计滤波器
+Task 47: 动态驱动递归网络
 ```
+
+```
+Module X: 一些其他的不知道该放在哪里的东西
+Task 48: 数据结构与算法
+Task 49: 信息论与信息编码
+Task 50: 离散数学
+```
+
