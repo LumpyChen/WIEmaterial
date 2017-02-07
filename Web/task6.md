@@ -63,5 +63,5 @@
     * 获取元素
     * 修改属性
 3. 继续看下一章节，实现一个文中的 `JavaScript` 图片库
-  * [交警的实例](https://lumpychen.github.io/gitutor/)
-  * 记得使用审查元素看上面的源码和注释
+  * [交警的实例](https://lumpychen.github.io/gitutor/)
+  * 记得使用审查元素看上面的源码和注释
